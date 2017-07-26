@@ -4,7 +4,7 @@ namespace App\Http\Controllers;
 use App\Thread;
 use Illuminate\Http\Request;
 
-class ReplyController extends Controller
+class RepliesController extends Controller
 {
     public function __construct()
     {
